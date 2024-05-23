@@ -1,0 +1,17 @@
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\le\Init Encoders Falcon.exe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\be\Init Encoders Falcon.exe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\le\Init Encoders Falcon.pdb
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\be\Init Encoders Falcon.pdb
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\Init Encoders Falcon.exe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\Init Encoders Falcon.pdb
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\le\Init Encoders Falcon.pe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\le\Init Encoders Falcon.pdbx
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\be\Init Encoders Falcon.pe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\bin\Debug\be\Init Encoders Falcon.pdbx
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\Init Encoders Falcon.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\be\Init Encoders Falcon.pe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\be\Init Encoders Falcon.pdbx
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\le\Init Encoders Falcon.pe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\le\Init Encoders Falcon.pdbx
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\Init Encoders Falcon.exe
+C:\Users\Nate\source\repos\Init Encoders Falcon\Init Encoders Falcon\obj\Debug\Init Encoders Falcon.pdb
